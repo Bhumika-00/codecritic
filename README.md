@@ -83,12 +83,6 @@ nodemon index.js
 
 ---
 
-## 📸 Screenshots / Demo
-
-Coming soon... 🎥
-
----
-
 ## 📣 Roadmap
 
 - [ ] Add GitHub PR integration
